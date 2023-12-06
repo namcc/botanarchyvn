@@ -13,7 +13,7 @@ Thực hiện theo các bước sau để thiết lập bot:
 
 2. Cài đặt các phần phụ thuộc cần thiết bằng cách chạy lệnh:
 ```
-cài đặt npm install
+npm install
 ```
 3. Đổi tên tệp `.env.example` thành `.env` và cung cấp thông tin bí mật của bạn trong tệp này.
 4. Vào file ..\src\index.ts chỉnh id
@@ -22,7 +22,7 @@ cài đặt npm install
 6. Chạy bot:
 
 ```
-bắt đầu npm start
+ npm start
 ```
 
 6. Bot sẽ được khởi động.
